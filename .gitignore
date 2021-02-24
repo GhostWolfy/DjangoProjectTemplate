@@ -1,0 +1,7 @@
+venv
+# .gitignore
+# /src/media
+/src/*.sqlite3
+/src/migrations
+/src/*.pyc
+
