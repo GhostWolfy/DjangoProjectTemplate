@@ -1,7 +1,7 @@
 venv
 # .gitignore
-# /src/media
+# media
 /src/*.sqlite3
-/src/migrations
+migrations
+__pycache__
 /src/*.pyc
-
