@@ -7,4 +7,4 @@
 
 *Migrations are not included.
 ---
-Use ```python manage.py startapp <app_name> apps``` to declare where to start app.
+Use ```django-admin startapp <app_name> <destination>``` to declare where to start app.
